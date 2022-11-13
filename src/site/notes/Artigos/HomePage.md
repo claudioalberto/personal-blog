@@ -3,6 +3,6 @@
 ---
 
 
-# Claudio Alberto
+# Sejam bem-vindo ao meu blog.
 ---
-*Sejam bem-vindo ao meu blog.*
+
