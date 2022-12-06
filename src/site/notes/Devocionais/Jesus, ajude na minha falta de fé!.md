@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"devocionais/jesus-ajuda-na-minha-falta-de-fe","permalink":"/devocionais/jesus-ajuda-na-minha-falta-de-fe/"}
 ---
 
-
+# Faith Week: Jesus, ajude na minha falta de fé!
 
 > [!SUMMARY] Marcos 9.14-25
 Quando eles se aproximaram dos outros discípulos, viram numerosa multidão ao redor deles e os escribas discutindo com eles.
