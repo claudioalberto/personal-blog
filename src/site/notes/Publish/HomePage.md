@@ -7,6 +7,6 @@
 # Sejam bem-vindo ao meu blog.
 ---
 
-## Faith Week - Devocionais
-
-[[Notes/Devocional - Faith Week- Jesus, ajude na minha falta de fé!\|Devocional - Faith Week- Jesus, ajude na minha falta de fé!]]
+## Nossos Devocionais 
+### Série de Devocionais: Fé
+- [[Notes/Devocional - Faith Week- Jesus, ajude na minha falta de fé!\|Jesus, ajude na minha falta de fé!]]
