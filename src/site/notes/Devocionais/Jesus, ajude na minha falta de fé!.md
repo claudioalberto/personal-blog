@@ -15,7 +15,6 @@ e muitas vezes o tem lançado no fogo e na água, para o matar. Mas, <mark style
 Ao que Jesus respondeu: — <mark style="background: #FFF3A3A6;">“Se o senhor pode”? Tudo é possível ao que crê.</mark>
 E imediatamente o pai do menino exclamou: — <mark style="background: #FFF3A3A6;">Eu creio! Ajude-me na minha falta de fé!</mark>
 Vendo Jesus que muita gente estava se reunindo, repreendeu o espírito imundo, dizendo-lhe: — Espírito mudo e surdo, eu ordeno a você: Saia deste menino e nunca mais entre nele.
-[[Mc9#14\|Mc9#14]][[Mc9#15\|Mc9#15]][[Mc9#16\|Mc9#16]][[Mc9#17\|Mc9#17]][[Mc9#18\|Mc9#18]][[Mc9#19\|Mc9#19]][[Mc9#20\|Mc9#20]][[Mc9#21\|Mc9#21]][[Mc9#22\|Mc9#22]][[Mc9#23\|Mc9#23]][[Mc9#24\|Mc9#24]][[Mc9#25\|Mc9#25]]
 
 A bíblia vai nos contar esse grande exemplo de fé e de sinceridade para com Deus, um certo homem que tinha um filho que sofria com um espírito que o deixava mudo, e não somente isso toda vez que o espírito se apossava dele, ele se contorcia, rangia os dentes e se lançava ao fogo. Então esse pai, chega até Jesus e pede que Ele se pudesse ajudar o seu filho.
 Jesus então responde de forma gloriosa, dizendo: “Se eu posso?” Tudo é possível ao que crer.
