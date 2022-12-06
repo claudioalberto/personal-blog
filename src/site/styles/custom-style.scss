@@ -17,5 +17,6 @@ body {
 body:not(.toggle-wave-background):before {
   z-index: -1 !important;
   left: 0;
-  
+  -webkit-mask-image: none;
+
 }
